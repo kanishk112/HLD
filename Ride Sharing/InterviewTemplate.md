@@ -1,7 +1,3 @@
-Absolutely! Let’s design a **ride-sharing app like Uber/Ola** using the same structured **system design template** from earlier.
-
----
-
 ## 🧩 1. Gather Requirements (10–15 mins)
 
 ### ✅ Functional Requirements (FR):
